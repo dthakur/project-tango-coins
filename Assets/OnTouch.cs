@@ -14,6 +14,8 @@ public class OnTouch : MonoBehaviour {
 	}
 
 	void DoTouch() {
+		AudioSource audio = GetComponent<AudioSource>();
+		audio.Play();
 		Destroy(this);
 	}
 }

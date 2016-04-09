@@ -29,3 +29,7 @@ sysinfo.txt
 *.apk
 *.unitypackage
 
+
+# Paid
+Assets/Fancy_Animated_Coins
+

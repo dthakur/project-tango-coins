@@ -8,7 +8,7 @@ Coins gets placed randomly around the room. You run around and try to get them b
 
 #### Implementation
 
-The current Coins World app places coins on tap. When you come close to the coins, it disappears with a pleasing chime.
+The current Coins World app places coins on tap. When you come close to the coins, they disappear with a pleasing chime.
 
 #### Hackathon result
 

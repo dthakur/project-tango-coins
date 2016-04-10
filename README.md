@@ -1,6 +1,6 @@
 Put together as part of NYC VR hackathon.
 
-Code is for information purposes only.
+Code is for information purposes only. As in, it's probably buggy.
 
 #### Game Idea
 
